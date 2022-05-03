@@ -1,17 +1,19 @@
 ### Hi there 👋
 
+My name is Roberto.
+
 Currently im a fullstack dev intern at Buser Brasil.
 
 I'm studying for a bachelor's degree in computer science.
 
-Here you will find projects that I develop during my programming studies.
+Here you will find projects that i develop during my programming studies.
 <br> 
 
-### Tools and Technologies
+### Tools and Technologies:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <br> 
 
-### I'm learning
+### I'm learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <br>      
       
