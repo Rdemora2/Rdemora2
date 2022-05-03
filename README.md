@@ -6,8 +6,16 @@ I'm studying for a bachelor's degree in computer science.
 
 Here you will find projects that I develop during my programming studies.
 
-Hope you like it!
 
+### Tools and Technologies
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+
+### I'm learning
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+
+Hope you like it!
 
 <div>
 <a href="https://github.com/Rdemora2">
