@@ -4,7 +4,7 @@ Currently im a fullstack dev intern at Buser Brasil.
 
 I'm studying for a bachelor's degree in computer science.
 
-Here you will find projects that I develop during my programming studies
+Here you will find projects that I develop during my programming studies.
 
 Hope you like it!
 
