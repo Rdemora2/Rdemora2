@@ -13,7 +13,7 @@ Here you will find projects that I develop during my programming studies.
 
 ### I'm learning
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-      
+<br>      
       
 <div>
 <a href="https://github.com/Rdemora2">
