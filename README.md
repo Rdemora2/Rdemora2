@@ -17,12 +17,15 @@ Here you will find projects that i develop during my studies.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <br>      
       
-<div>
-<a href="https://github.com/Rdemora2">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdemora2&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rdemora2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-![Snake animation](https://github.com/lukemariano/lukemariano/blob/output/github-contribution-grid-snake.svg)
+<div style="display: flex">
+<a href="https://github.com/lukemariano">
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukemariano&layout=compact&langs_count=7&theme=dracula"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=lukemariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+
+
+![Snake animation](https://github.com/lukemariano/lukemariano/blob/output/github-contribution-grid-snake.svg)
           
           
 ### Hope you like it!
