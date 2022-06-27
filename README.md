@@ -9,7 +9,6 @@ I'm studying for a bachelor's degree in computer science.
 Here you will find projects that i develop during my studies.
 
 [Visit my personal page](https://rdemora2.github.io/D.Final---Pagina_Pessoal/)
-
 <br> 
 
 ### Tools and Technologies:
