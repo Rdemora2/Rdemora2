@@ -7,6 +7,9 @@ Currently im a fullstack dev intern at Buser Brasil.
 I'm studying for a bachelor's degree in computer science.
 
 Here you will find projects that i develop during my studies.
+
+[Visit my personal page](https://rdemora2.github.io/D.Final---Pagina_Pessoal/))
+
 <br> 
 
 ### Tools and Technologies:
@@ -19,8 +22,8 @@ Here you will find projects that i develop during my studies.
       
 <div style="display: flex">
 <a href="https://github.com/Rdemora2">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdemora2&layout=compact&langs_count=7&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rdemora2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdemora2&langs_count=5&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4&layout=compact"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Rdemora2&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4"/>
 </div>
   
 
