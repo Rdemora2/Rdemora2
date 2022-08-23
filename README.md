@@ -2,7 +2,7 @@
 
 My name is Roberto.
 
-Currently im a fullstack dev intern at Buser Brasil.
+Currently im a fullstack developer intern at Buser Brasil.
 
 I'm a college student in systems analysis and development
 
