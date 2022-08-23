@@ -4,7 +4,7 @@ My name is Roberto.
 
 Currently im a fullstack dev intern at Buser Brasil.
 
-I'm studying for a bachelor's degree in computer science.
+I'm a college student in systems analysis and development
 
 Here you will find projects that i develop during my studies.
 
