@@ -18,8 +18,8 @@ Here you will find projects that i develop during my studies.
       
 <div style="display: flex">
 <a href="https://github.com/Rdemora2">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rdemora2&show_icons=true&custom_title=Stats&theme=radical&include_all_commits=true&count_private=true&border_radius=2em&hide_border=true&hide_rank=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Rdemora2&count_private=true&show_icons=true&theme=radical&title_color=36acd1&text_color=eeeee4&icon_color=eeeee4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiopeternela&custom_title=Stack&layout=compact&langs_count=7&theme=radical&card_width=230em&border_radius=1em&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rdemora2&show_icons=true&custom_title=Stats&theme=radical&include_all_commits=true&count_private=true&border_radius=2em&hide_border=true&hide_rank=true"/>
 </div>
   
 
