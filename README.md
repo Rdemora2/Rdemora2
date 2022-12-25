@@ -8,7 +8,7 @@ I'm a college student in systems analysis and development.
 
 Here you will find projects that i develop during my studies.
 
-[Visit my personal page](https://rdemora2.github.io/D.Final---Pagina_Pessoal/)
+[Visit my personal page](https://rdemora2.github.io/Personal-page/)
 <br> 
 
 ### Tools and Technologies:
