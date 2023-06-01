@@ -2,7 +2,7 @@
 
 My name is Roberto.
 
-Currently im a fullstack developer intern at Buser Brasil.
+I'm currently a full stack web developer, but I'm also interested in business intelligence projects.
 
 Professionally, I have already developed several projects in practically all stacks, from creating a project from scratch and maintaining pre-existing software to consuming artificial intelligence api's and creating api's to be used by third parties.
 
