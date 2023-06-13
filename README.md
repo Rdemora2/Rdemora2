@@ -26,7 +26,7 @@ Here you will find projects that i develop during my free time.
   
 
 
-![Snake animation](https://github.com/lukemariano/lukemariano/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rdemora2/rdemora2/blob/output/github-contribution-grid-snake.svg)
           
           
 ### Hope you like it! :)
