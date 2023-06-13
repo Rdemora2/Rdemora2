@@ -23,10 +23,5 @@ Here you will find projects that i develop during my free time.
 <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdemora2&custom_title=Stack&layout=compact&langs_count=7&theme=radical&card_width=230em&border_radius=1em&hide_border=true">
 <img height="210em" src="https://github-readme-stats.vercel.app/api?username=Rdemora2&show_icons=true&custom_title=Stats&theme=radical&include_all_commits=true&count_private=true&border_radius=2em&hide_border=true&hide_rank=true"/>
 </div>
-  
-
-
-![Snake animation](https://github.com/rdemora2/rdemora2/blob/output/github-contribution-grid-snake.svg)
-          
           
 ### Hope you like it! :)
