@@ -10,9 +10,7 @@ I'm a college student in systems analysis and development.
 
 Here you will find projects that i develop during my free time.
 
-[Visit my personal page](https://portifolio-roberto-moraes-projects.vercel.app/)
-
-<br> 
+[Visit my personal page](https://portifolio-roberto-moraes-projects.vercel.app/)  
 
 ### Tools and Technologies:
 <div >
