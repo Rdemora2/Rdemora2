@@ -14,7 +14,7 @@
 		<td align="center"><strong>Liderança</strong><br />Gestão, prioridade e entrega</td>
 		<td align="center"><strong>Engenharia</strong><br />Arquitetura, performance e escala</td>
 		<td align="center"><strong>IA e LLMs</strong><br />Integrações, automações e assistentes</td>
-		<td align="center"><strong>Cloud</strong><br />GCP, containers e sistemas distribuídos</td>
+		<td align="center"><strong>Cloud</strong><br />GCP, AWS, containers e sistemas distribuídos</td>
 	</tr>
 </table>
 
@@ -24,12 +24,12 @@
 - Times alinhados, entregas previsíveis e qualidade sustentada.
 - Sistemas com foco em performance, estabilidade e experiência do usuário.
 - Integrações com IA e LLMs, automações inteligentes e fluxos assistidos.
-- Plataformas cloud com foco em escala, observabilidade e eficiência operacional.
+- Plataformas cloud com foco em escala, observabilidade e eficiência operacional em GCP e AWS.
 
 ## Linguagens nos meus repositórios
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdemora2&layout=compact&theme=dracula" alt="TOP Linguagens" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rdemora2&layout=normal&theme=dracula" alt="TOP Linguagens" />
 </p>
 
 ## Tech Stack
@@ -47,6 +47,12 @@
 		</tr>
 		<tr>
 			<td align="center" colspan="4"><strong>Cloud & Infra</strong><br /><img width="42" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/> <img height="28" src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Run" title="Cloud Run"/> <img height="28" src="https://img.shields.io/badge/App%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="App Engine" title="App Engine"/> <img height="28" src="https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Compute Engine" title="Compute Engine"/> <img height="28" src="https://img.shields.io/badge/Cloud%20Build-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Build" title="Cloud Build"/> <img height="28" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" title="Docker"/> <img height="28" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" title="Redis"/> <img height="28" src="https://img.shields.io/badge/VPC-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="VPC" title="VPC"/> <img height="28" src="https://img.shields.io/badge/Memorystore-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Memorystore" title="Memorystore"/></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="4"><strong>Edge & Proxy</strong><br /><img height="28" src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" title="Traefik"/> <img height="28" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" title="Nginx"/> <img height="28" src="https://img.shields.io/badge/Reverse%20Proxy-111827?style=for-the-badge" alt="Reverse Proxy" title="Reverse Proxy"/> <img height="28" src="https://img.shields.io/badge/Load%20Balancing-232F3E?style=for-the-badge" alt="Load Balancing" title="Load Balancing"/></td>
+		</tr>
+		<tr>
+			<td align="center" colspan="4"><strong>AWS</strong><br /><img height="28" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" title="AWS"/> <img height="28" src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2" title="EC2"/> <img height="28" src="https://img.shields.io/badge/WAF-232F3E?style=for-the-badge&logo=awswaf&logoColor=white" alt="WAF" title="WAF"/> <img height="28" src="https://img.shields.io/badge/Load%20Balancing-232F3E?style=for-the-badge&logo=awslambda&logoColor=white" alt="Load Balancing" title="Load Balancing"/> <img height="28" src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonvpc&logoColor=white" alt="VPC" title="VPC"/> <img height="28" src="https://img.shields.io/badge/EBS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="EBS" title="EBS"/> <img height="28" src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda" title="Lambda"/> <img height="28" src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="S3" title="S3"/> <img height="28" src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="IAM" title="IAM"/> <img height="28" src="https://img.shields.io/badge/Route%2053-232F3E?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="Route 53" title="Route 53"/> <img height="28" src="https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazoncloudfront&logoColor=white" alt="CloudFront" title="CloudFront"/> <img height="28" src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" alt="RDS" title="RDS"/></td>
 		</tr>
 		<tr>
 			<td align="center" colspan="4"><strong>Dados & Ferramentas</strong><br /><img width="42" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/> <img width="42" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/> <img width="42" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/> <img width="42" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/> <img height="28" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" title="SQLite"/> <img height="28" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" title="Android"/> <img height="28" src="https://img.shields.io/badge/Android%20TV-3DDC84?style=for-the-badge" alt="Android TV" title="Android TV"/></td>
