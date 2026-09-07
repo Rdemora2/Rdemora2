@@ -5,7 +5,7 @@
 		Construo produtos digitais escaláveis, performáticos e confiáveis, com forte atuação em IA, LLMs, cloud e execução hands-on.
 	</p>
 	<p>
-		<a href="https://portifolio-roberto-moraes-projects.vercel.app/">Portfólio</a>
+		<a href="(https://robertomoraes.vercel.app/)">Portfólio</a>
 	</p>
 </div>
 
@@ -69,4 +69,4 @@
 
 ## Contato
 
-[Acesse meu portfólio](https://portifolio-roberto-moraes-projects.vercel.app/)
+[Acesse meu portfólio](https://robertomoraes.vercel.app/)
